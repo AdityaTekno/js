@@ -1,0 +1,2 @@
+# js
+Only JS.
